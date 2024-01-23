@@ -7,3 +7,7 @@ Added header
 def train (epochs, lr, optim):
   pass
 ```
+
+To do:
+- [ ] A
+- [x] B
